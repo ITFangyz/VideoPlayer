@@ -1,0 +1,44 @@
+{
+  "id": "3382086",
+  "name": "videoPlayer",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "播放器组件",
+  "glyphs": [
+    {
+      "icon_id": "2076218",
+      "name": "播放2",
+      "font_class": "bofang",
+      "unicode": "e87c",
+      "unicode_decimal": 59516
+    },
+    {
+      "icon_id": "2674473",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "5387606",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "eb11",
+      "unicode_decimal": 60177
+    },
+    {
+      "icon_id": "7594152",
+      "name": "24gf-pause2",
+      "font_class": "24gf-pause2",
+      "unicode": "ea81",
+      "unicode_decimal": 60033
+    },
+    {
+      "icon_id": "11391551",
+      "name": "音量",
+      "font_class": "yinliang",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
